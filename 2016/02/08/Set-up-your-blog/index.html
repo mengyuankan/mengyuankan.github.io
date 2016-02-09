@@ -8,18 +8,18 @@
 <li>Create GitHub account</li>
 <li>Create GitHub repository by the name “yourname.github.io”</li>
 <li>Download and install <a href="https://desktop.github.com/" target="_blank" rel="external">GitHub for windows</a></li>
-<li>Use the repository in GitHub Desktop by click the icon</li>
+<li>Use the <code>repository in GitHub Desktop</code> by clicking the icon</li>
 </ul>
 <h2 id="Install_and_set_up_Hexo"><a href="#Install_and_set_up_Hexo" class="headerlink" title="Install and set up Hexo"></a>Install and set up Hexo</h2><ul>
 <li>Download and install <a href="https://nodejs.org/en/download/" target="_blank" rel="external">Node.js</a></li>
-<li><p>Install Hexo in GitHub shell</p>
+<li><p>Install Hexo in Git shell</p>
   <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g&#10;cd Hexo&#10;hexo init&#10;hexo generate&#10;hexo server</span><br></pre></td></tr></table></figure>
 </li>
 <li><p>Configurate Hexo</p>
 <ul>
 <li>Find and open _config.yml in Hexo directory</li>
-<li><p>Edit contents under the tag <code>deployment</code></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">type: git&#10;repository: put the GitHub repository link</span><br></pre></td></tr></table></figure>
+<li><p>Edit contents under the tag “Deployment”</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">#Deployment&#10;type: git&#10;repository: put the GitHub repository link</span><br></pre></td></tr></table></figure>
 </li>
 <li><p>Add updated file in GitHub repository</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean&#10;hexo generate&#10;hexo deploy</span><br></pre></td></tr></table></figure>
