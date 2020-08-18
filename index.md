@@ -1,6 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 ---
+
+
+![image-title-here](/assets/img/logo.png){:class="img-responsive"}
+
+I am a postdoctoral researcher at University of Pennsylvania, working with Dr. Blanca Himes.
+
