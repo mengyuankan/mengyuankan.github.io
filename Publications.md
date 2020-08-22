@@ -2,20 +2,21 @@
 layout: default
 ---
 
-## Integrative Omics Studies of Respiratory Diseases
+### Integrative Omics Studies of Respiratory Diseases
 
-1.**Kan M**, Himes B. **Insights into Glucocorticoid Responses Derived from Omics Studies.** Pharmacol Ther [In revision]
+1.**Kan M**, Himes B. **Insights into Glucocorticoid Responses Derived from Omics Studies.** Pharmacol Ther [accepted]
 
 2.Diwadkar AR, **Kan M**, Himes BE. **Facilitating Analysis of Publicly Available ChIP-Seq Data for Integrative Studies.** AMIA Annu Symp Proc. 2020 Mar 4;2019:371-379. **Received AMIA 2019 Distinguished Paper Award.** PMID: [32308830](https://pubmed.ncbi.nlm.nih.gov/32308830/)
 
-3.**Kan M**, Koziol-White C, Shumyatcher M, Johnson M, Jester W, Panettieri RA Jr, Himes BE. **Airway Smooth Muscle-Specific Transcriptomic Signatures of Glucocorticoid Exposure. Am J Respir Cell Mol Biol.** 2019 61(1):110-120. PMID: [30694689](https://pubmed.ncbi.nlm.nih.gov/30694689/)
+3.**Kan M**, Koziol-White C, Shumyatcher M, Johnson M, Jester W, Panettieri RA Jr, Himes BE. **Airway Smooth Muscle-Specific Transcriptomic Signatures of Glucocorticoid Exposure.** Am J Respir Cell Mol Biol. 2019 61(1):110-120. PMID: [30694689](https://pubmed.ncbi.nlm.nih.gov/30694689/)
 
 4.**Kan M**, Shumyatcher M, Diwadkar AR, Soliman G, Himes BE. **Integration of Transcriptomic Data Identifies Global and Cell-Specific Asthma-Related Gene Expression Signatures.** AMIA Annu Symp Proc. 2018 Dec 5;2018:1338-1347. **Finalist of AMIA Student Paper Award.** PMID: [30815178](https://pubmed.ncbi.nlm.nih.gov/30815178/)
 
 5.**Kan M**, Shumyatcher M, Himes B. **Using omics approaches to understand pulmonary diseases.** Respir Res. 2017 18(1):149. PMID: [28774304](https://pubmed.ncbi.nlm.nih.gov/28774304/)
 
+---
 
-## Asthma Genetics and Pharmacogenetics
+### Asthma Genetics and Pharmacogenetics
 
 6.**Kan M**, Himes BE. **Genetics and Pharmacogenetics of Asthma.** Precision Therapy in Pulmonary, Critical Care and Sleep Medicine. Gomez JL, Himes BE, Kaminski N (eds). 1st ed. Springer, New York, NY. 2020. Chapter 3: 25-37p.
 
@@ -23,19 +24,23 @@ layout: default
 
 8.Panganiban R, Sun M, Dahlin A, Park H, **Kan M**, Himes BE, et al. **A functional splicing variant associated with decreased asthma risk abolishes the ability of gasdermin B (GSMDB) to induce epithelial cell pyroptosis.** J Allergy Clin Immunol. 2018 142(5):1469-1478. PMID: [29330013](https://pubmed.ncbi.nlm.nih.gov/29330013/)
 
-## Applications of Developed Open-source Tools
+---
+
+### Applications of Developed Open-source Tools
 
 9.Y Xu, Y Zhang, JC Garcia-Canaveras, L Guo, **M Kan**, S Yu, IA Blair, JD Rabinowitz, X Yang. **Chaperone-mediated autophagy regulates the pluripotency of embryonic stem cells.** Science. 2020 Jul 24;369(6502):397-403. PMID: [32703873](https://pubmed.ncbi.nlm.nih.gov/32703873/)
 
 10.Balamuth F, Alpern ER, **Kan M**, Shumyatcher M, Hayes K, Lautenbach E, Himes BE. **Gene Expression Profiles Differentiate Viral from Bacterial Source Pathogen in Children with Suspected Sepsis in the Emergency Department.** Ann Emerg Med. 2020 Jun;75(6):744-754. PMID: [31983492](https://pubmed.ncbi.nlm.nih.gov/31983492/)
 
-## NHLBI Exome Sequencing Project (ESP): Rare Variant Association Studies
+---
+
+### NHLBI Exome Sequencing Project (ESP): Rare Variant Association Studies
 
 11.**Kan M**, Auer PL, Wang GT, Bucasas KL, Hooker S, Rodriguez A, Li B, Ellis J, Cupples LA, Chen YD, et al. **Rare variant associations with waist-to-hip ratio in European-American and African-American women from the NHLBI-Exome Sequencing Project.** Eur J Hum Genet. 2016 24(8):1181-7. PMID: [26757982](https://pubmed.ncbi.nlm.nih.gov/26757982/)
 
 12.He Z, O'Roak BJ, Smith JD, Wang G, Hooker S, Santos-Cortez RL, Li B, **Kan M**, Krumm N, Nickerson DA, et al. **Rare-variant extensions of the transmission disequilibrium test: application to autism exome sequence data.** Am J Hum Genet. 2014 94:33-46. PMID: [24360806]( https://pubmed.ncbi.nlm.nih.gov/24360806/)
 
-### NHLBI-ESP Consortium Publications:
+#### NHLBI-ESP Consortium Publications
 
 13.Rosenthal EA et al. **Rare loss of function variants in candidate genes and risk of colorectal cancer.** Hum Genet. 2018 137(10):795-806. PMID: [30267214](https://pubmed.ncbi.nlm.nih.gov/30267214/)
 
@@ -61,18 +66,23 @@ layout: default
 
 24.Emond MJ et al. **Exome sequencing of extreme phenotypes identifies DCTN4 as a modifier of chronic Pseudomonas aeruginosa infection in cystic fibrosis.** Nat Genet. 2012 44:886-889. PMID: [22772370](https://pubmed.ncbi.nlm.nih.gov/22772370/)
 
+---
 
-## Cancer Genomics and Epigenomics
+### Cancer Genomics and Epigenomics
 
 25.Zhang L, **Kan M***, Zhang M, Yu S, Xie H, Gu Z, Wang H, Zhao S, Zhou G, Song H, Zheng C. **Multiregion sequencing reveals intratumor heterogeneity of driver mutations in TP53-driven non-small cell lung cancer.** Int J Cancer. 2017 140(1):103-10. PMID: [27646734](https://pubmed.ncbi.nlm.nih.gov/27646734/)
 
 26.Liu F, Zhou Y, Zhou D, **Kan M**, Niu X, Zhang Z, Zhang D, Tao L, He L, Zhang L, Liu Y. **Whole DNA methylome profiling in lung cancer cells before and after epithelial-to-mesenchymal transition.** Diagnosis Pathology. 2014 9:66. PMID: [24655585](https://pubmed.ncbi.nlm.nih.gov/24655585/)
 
-## Next Generation Sequencing Application
+---
+
+### Next Generation Sequencing Application
 
 27.Wu C, Zhang D, **Kan M***, Lv Z, Zhu A, et al. **The draft genome of the large yellow croaker reveals well-developed innate immunity.** Nat Commun. 2014 5:5227. PMID: [25407894](https://pubmed.ncbi.nlm.nih.gov/25407894/)
 
-## Genetic and epigenetic Studies in Chinese population
+---
+
+### Genetic and Epigenetic Studies in Chinese Population
 
 28.Weng X, Liu F, Zhang H, **Kan M**, Wang T, Dong M, Liu Y. **Genome-wide DNA methylation profiling in infants born to gestational diabetes mellitus. Diabetes Res Clin Pract.** 2018 142:10-18. PMID: [26049047](https://pubmed.ncbi.nlm.nih.gov/26049047/)
 
