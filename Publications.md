@@ -116,5 +116,3 @@ layout: default
 
 43.Zhou DZ, Liu Y, Zhang D, Liu SM, Yu L, Yang YF, Zhao T, Chen Z, **Kan MY** et al. **Variations in/nearby genes coding for JAZF1, TSPAN8/LGR5 and HHEX-IDE and risk of type 2 diabetes in Han Chinese.** J Hum Genet. 2010 55:810-815. PMID: [20927120]( https://pubmed.ncbi.nlm.nih.gov/20927120/)
 
-
-[back](./)
