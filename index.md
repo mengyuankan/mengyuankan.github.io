@@ -2,9 +2,7 @@
 layout: default
 ---
 
-[//]: #![pennlove](imgs/profile/penn_love.png){:class="img-responsive"}
-
-[//]: #<span style="display:block;text-align:center">![penn_love](/assets/img/penn_love.png){:height="70%" width="70%"}
+<span style="display:block;text-align:center">![pennlove](imgs/profile/penn_love.jpeg){:class="img-responsive height="70%" width="70%"}
 
 Specialized in genetics, genomics, and bioinformatics, my research interests lie in identifying genetic and environmental factors that contribute to complex human diseases, via applying computational methods on multi-layered omics data. I leverage publicly available omics data to test novel hypotheses on disease mechanisms. I develop informatics tools and pipelines to facilitate reproducible analysis of omics data.
 
