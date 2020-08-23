@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![pennlove](imgs/profile/penn_love.png){:class="img-responsive"}
+[//]: #![pennlove](imgs/profile/penn_love.png){:class="img-responsive"}
 
 [//]: #<span style="display:block;text-align:center">![penn_love](/assets/img/penn_love.png){:height="70%" width="70%"}
 
