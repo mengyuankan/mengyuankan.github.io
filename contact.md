@@ -4,7 +4,7 @@ layout: default
 
 ### Contact Info
 
-E-mail: mengykan [at] pennmedicine.upenn.edu 
+Email: mengykan [at] pennmedicine.upenn.edu 
 
 423 Blockley Hall
 

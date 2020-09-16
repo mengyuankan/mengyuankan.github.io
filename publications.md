@@ -4,7 +4,7 @@ layout: default
 
 ### Integrative Omics Studies of Respiratory Diseases
 
-43.**Kan M**, Himes B. **Insights into Glucocorticoid Responses Derived from Omics Studies.** Pharmacol Ther [accepted]
+43.**Kan M**, Himes B. **Insights into Glucocorticoid Responses Derived from Omics Studies.** Pharmacol Ther [in press] PMID: [32910934](https://pubmed.ncbi.nlm.nih.gov/32910934/)
 
 42.Diwadkar AR, **Kan M**, Himes BE. **Facilitating Analysis of Publicly Available ChIP-Seq Data for Integrative Studies.** AMIA Annu Symp Proc. 2020 Mar 4;2019:371-379. **Received AMIA 2019 Distinguished Paper Award.** PMID: [32308830](https://pubmed.ncbi.nlm.nih.gov/32308830/)
 
@@ -28,7 +28,7 @@ layout: default
 
 ### Applications of Our Open-source Tools
 
-35.Y Xu, Y Zhang, JC Garcia-Canaveras, L Guo, **M Kan**, S Yu, IA Blair, JD Rabinowitz, X Yang. **Chaperone-mediated autophagy regulates the pluripotency of embryonic stem cells.** Science. 2020 Jul 24;369(6502):397-403. PMID: [32703873](https://pubmed.ncbi.nlm.nih.gov/32703873/)
+35.Xu Y, Zhang Y, Garcia-Canaveras JC, Guo L, **Kan M**, Yu S, Blair IA, Rabinowitz JD, X Yang. **Chaperone-mediated autophagy regulates the pluripotency of embryonic stem cells.** Science. 2020 Jul 24;369(6502):397-403. PMID: [32703873](https://pubmed.ncbi.nlm.nih.gov/32703873/)
 
 34.Balamuth F, Alpern ER, **Kan M**, Shumyatcher M, Hayes K, Lautenbach E, Himes BE. **Gene Expression Profiles Differentiate Viral from Bacterial Source Pathogen in Children with Suspected Sepsis in the Emergency Department.** Ann Emerg Med. 2020 Jun;75(6):744-754. PMID: [31983492](https://pubmed.ncbi.nlm.nih.gov/31983492/)
 
@@ -44,11 +44,11 @@ layout: default
 
 31.Rosenthal EA et al. **Rare loss of function variants in candidate genes and risk of colorectal cancer.** Hum Genet. 2018 137(10):795-806. PMID: [30267214](https://pubmed.ncbi.nlm.nih.gov/30267214/)
 
-30.Auer PL et al. **Rare and Coding Region Genetic Variants Associated With Risk of Ischemic Stroke: The NHLBI Exome Sequence Project.** JAMA Neurol. 2015 72:781-788, 2015. PMID: [25961151] (https://pubmed.ncbi.nlm.nih.gov/25961151/)
+30.Auer PL et al. **Rare and Coding Region Genetic Variants Associated With Risk of Ischemic Stroke: The NHLBI Exome Sequence Project.** JAMA Neurol. 2015 72:781-788, 2015. PMID: [25961151](https://pubmed.ncbi.nlm.nih.gov/25961151/)
 
 29.Do R et al. **Exome sequencing identifies rare LDLR and APOA5 alleles conferring risk for myocardial infarction.** Nature. 2015 518:102-106. PMID: [25487149](https://pubmed.ncbi.nlm.nih.gov/25487149/)
 
-28.Tabor HK et al. **Pathogenic variants for Mendelian and complex traits in exomes of 6,517 European and African Americans: implications for the return of incidental results.** Am J Hum Genet 95:183-193, 2014. PMID: [25087612] ( https://pubmed.ncbi.nlm.nih.gov/25087612/)
+28.Tabor HK et al. **Pathogenic variants for Mendelian and complex traits in exomes of 6,517 European and African Americans: implications for the return of incidental results.** Am J Hum Genet 95:183-193, 2014. PMID: [25087612]( https://pubmed.ncbi.nlm.nih.gov/25087612/)
 
 27.Lange LA et al. **Whole-exome sequencing identifies rare and low-frequency coding variants associated with LDL cholesterol.** Am J Hum Genet. 2014 94:233-245. [24507775]( https://pubmed.ncbi.nlm.nih.gov/24507775/)
 
