@@ -2,30 +2,31 @@
 layout: default
 ---
 
-### Integrate Multi-Omics Data to Understand Mechanisms of Respiratory Diseases
+### Multiomics Integration to Identify Novel Disease Mechanisms
 
-Omics approaches have advanced our [understanding](https://pubmed.ncbi.nlm.nih.gov/28774304/) of complex respiratory diseases. However, our ability to generate omics data far exceeds our ability to interpret and validate findings with biological functionality. Most omics studies characterize the biological information from single modalities. Integrative analysis of multi-omics data provides insights underlying disease mechanisms beyond those from single-layered omics data.
+Omics approaches have advanced our [understanding](https://pubmed.ncbi.nlm.nih.gov/28774304/) of complex respiratory diseases. However, our ability to generate omics data far exceeds our ability to interpret and validate findings that are biologically informed. Most omics studies characterize biological information from single modalities. Integrative analysis of multiomics data provides insights into disease mechanisms beyond those from single-layered omics data.
 
-Here, we use an asthma-related phenotype, glucocorticoid response, as a study model. [Glucocorticoids](https://pubmed.ncbi.nlm.nih.gov/32910934/) are commonly used drugs for the treatment of asthma. They are known to exert anti-inflammatory effects via binding to glucocorticoid receptor (GR) transcription factors and modulating gene transcription. Some asthma patients have poor outcomes of glucocorticoid use which are likely conferred by genetic variants. Yet [recent](https://www.jacionline.org/article/S0091-6749(16)30596-6/fulltext) genome-wide association studies (GWAS) of glucocorticoid response found little evidence of common genetic variants having large genetic effects on this phenotype.
 
-I have [identified](https://pubmed.ncbi.nlm.nih.gov/30694689/) cell type-specific gene expression changes in response glucocorticoids *in vitro*. My further question is that are there any genetic variants nominally associated with glucocorticoid response having cell type-specific biological functionality?
+We used an asthma-related phenotype, glucocorticoid response, as a study model. [Glucocorticoids](https://pubmed.ncbi.nlm.nih.gov/32910934/), commonly used drugs for the treatment of asthma, are known to exert anti-inflammatory effects via binding to glucocorticoid receptors (GRs), a type of transcription factors, and modulating gene transcription. Some asthma patients respond pooly to glucocorticoids, in part due to genetic differences. Yet genome-wide association studies (GWAS) of glucocorticoid response did not find reproducible genetic associations that reach genome-wide levels of statistical significance.
 
-I have integrated GWAS data with publicly available transcriptomic data as well as epigenomic data of GR ChIP-Seq in various airway cell types. I have identified novel genetic variants located within GR-binding sites that influence patients' response to glucocorticoids via modulation of glucocorticoid and inflammatory signaling in airway cells.
+Our previous transcriptomic integration study [identified](https://pubmed.ncbi.nlm.nih.gov/30694689/) tissue-specific gene expression signature of glucocorticoid response. To leverage norminal genetic associations, we developed [multiomics integrative scores](https://pubmed.ncbi.nlm.nih.gov/34971648/) to rank these variants based on their functional annotations inferred from transcripotmic, ChIP-Seq, DNA motif, and eQTL data. This enabled us identify variants near the gene *BIRC3* as a novel genetic locus that might influence patients' response to glucocorticoids via modulation of GR signaling in airway cells.
 
 ![omics](imgs/research/omics.png)
 
-This integration model can be extended to prioritize genetic variants that are nominally associated with other complex diseases and drug-response traits which will facilitate further mechanistic studies.
+This multiomics integrative score can be extended to prioritize norminal genetic associations for other complex phenotypes for further mechanistic studies.
 
 ---
 
 
-### Leverage Publicly Available Omics Data to Test Novel Hypotheses
+### Leverage Public Omics Datasets to Test Novel Hypotheses
 
-With the advent of high throughput omics technologies, the volume of publicly available omics data has increased ever since. These data include experiments designed for comparing disease versus healthy individuals as well as cells exposed to drugs versus vehicle control. Leveraging existing datasets offers researchers a convenient and cost-effective avenue to test their novel hypotheses on disease mechanisms. However, public data are heterogeneous and not readily usable.
+With the advent of high throughput omics technologies, the volume of publicly available omics data has increased ever since. These data include experiments that compared disease versus healthy individuals as well as cells exposed to drugs versus vehicle control. Leveraging existing datasets offers experimental researchers a cost-effective avenue to test their novel hypotheses on disease mechanisms. Although these datasets are valuable, in their raw form, they are not helpful to experimental researchers who lack adequate computational resources or experience analyzing omics data.
 
-To facilitate the reproducible analysis of publicly available omics data, My colleagues and I have developed the pipelines [RAVED](https://github.com/HimesGroup/raved) for transcriptomic data analysis and [brocade](https://github.com/HimesGroup/brocade) for ChIP-Seq data analysis, and an online application [REALGAR](http://realgar.org/) that allows end-users to visualize results from omics data analysis and obtain integration results on-the-fly.
+To facilitate the reproducible analysis of publicly available omics data, we developed pipelines [RAVED](https://github.com/HimesGroup/raved) for transcriptomic data analysis and [brocade](https://github.com/HimesGroup/brocade) for ChIP-Seq data analysis, and and an web app [REALGAR](http://realgar.org/) that integrates analysis-ready omics data and allows end-users to visualize integrated results on-the-fly.
 
-I [integrated](https://pubmed.ncbi.nlm.nih.gov/30815178/) analysis-ready results of asthma and asthma drug-related gene expression datasets and identified global and cell type-specific asthma and glucocorticoid-induced gene expression signatures. Here is a nice illustration by [Yoson](https://twitter.com/__yoson__) when I presented this work in IBI retreat.
+These open-source tools enabled identification of tissue-specific [differentially expressed genes](https://pubmed.ncbi.nlm.nih.gov/30815178/) and [differential transcription factor binding sites](https://pubmed.ncbi.nlm.nih.gov/32308830/) related to asthma and drug response, and 
+prioritization of [asthma-associated variants](https://pubmed.ncbi.nlm.nih.gov/35863045/) that might contribute to asthma via their influence on glucocorticoid receptor-modulated glucocorticoid response. Here is a nice illustration by [Yoson](https://twitter.com/__yoson__) when I presented *RAVED* in IBI retreat.
+
 ![raved_illustration](imgs/research/raved.jpg)
 
-I collaborate with molecular biologists to analyze and interpret their omics data using our open-source tools and pipelines which has made significant [scientific discoveries](https://www.pennmedicine.org/news/news-releases/2020/july/self-eating-process-of-stem-cells-may-be-the-key-to-new-regenerative-therapies).
+I collaborate with molecular biologists to analyze and interpret their omics data using these open-source tools and pipelines and have made significant [scientific discoveries](https://www.pennmedicine.org/news/news-releases/2020/july/self-eating-process-of-stem-cells-may-be-the-key-to-new-regenerative-therapies).
