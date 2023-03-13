@@ -11,9 +11,9 @@ You can find the complete list of my published work in [NIH MyBibliography](http
 
 ### Multiomics Integration
 
-**Kan M**, Diwadkar AR, Shuai H, Joo J, Wang AL, Ong MS, Sordillo JE, et al.  Multiomics analysis identifies BIRC3 as a novel glucocorticoid response-associated gene. J Allergy Clin Immunol. 2022 Jun;149(6):1981-1991. PMID: [34971648](https://pubmed.ncbi.nlm.nih.gov/34971648/)
+**Kan M**, Diwadkar AR, Shuai H, Joo J, Wang AL, Ong MS, Sordillo JE, et al. **Multiomics analysis identifies BIRC3 as a novel glucocorticoid response-associated gene.** J Allergy Clin Immunol. 2022 Jun;149(6):1981-1991. PMID: [34971648](https://pubmed.ncbi.nlm.nih.gov/34971648/)
 
-**Kan M**, Sun M, Jiang X, Diwadkar AR, Parikh V, Cao G, Gebski E, Jester W, Lan B, Panettieri RA Jr, Koziol-White C, Lu Q, Himes BE. CEBPD modulates the airway smooth muscle transcriptomic response to glucocorticoids. Respir Res. 2022 Jul 28;23(1):193. PMID: [35902923](https://pubmed.ncbi.nlm.nih.gov/35902923/)
+**Kan M**, Sun M, Jiang X, Diwadkar AR, Parikh V, Cao G, Gebski E, Jester W, Lan B, Panettieri RA Jr, Koziol-White C, Lu Q, Himes BE. **CEBPD modulates the airway smooth muscle transcriptomic response to glucocorticoids.** Respir Res. 2022 Jul 28;23(1):193. PMID: [35902923](https://pubmed.ncbi.nlm.nih.gov/35902923/)
 
 **Kan M**, Koziol-White C, Shumyatcher M, Johnson M, Jester W, Panettieri RA Jr, Himes BE. **Airway Smooth Muscle-Specific Transcriptomic Signatures of Glucocorticoid Exposure.** Am J Respir Cell Mol Biol. 2019 61(1):110-120. PMID: [30694689](https://pubmed.ncbi.nlm.nih.gov/30694689/)
 
@@ -21,7 +21,7 @@ You can find the complete list of my published work in [NIH MyBibliography](http
 
 ### Open-source tools and their applications
 
-**Kan M**, Diwadkar AR, Saxena S, Shuai H, Joo J, Himes BE. REALGAR: a web app of integrated respiratory omics data. Bioinformatics. 2022 Sep 15;38(18):4442-4445. PMID: [35863045](https://pubmed.ncbi.nlm.nih.gov/35863045/)
+**Kan M**, Diwadkar AR, Saxena S, Shuai H, Joo J, Himes BE. **REALGAR: a web app of integrated respiratory omics data. Bioinformatics.** 2022 Sep 15;38(18):4442-4445. PMID: [35863045](https://pubmed.ncbi.nlm.nih.gov/35863045/)
 
 Diwadkar AR, **Kan M**, Himes BE. **Facilitating Analysis of Publicly Available ChIP-Seq Data for Integrative Studies.** AMIA Annu Symp Proc. 2020 Mar 4;2019:371-379. **Received AMIA 2019 Distinguished Paper Award.** PMID: [32308830](https://pubmed.ncbi.nlm.nih.gov/32308830/)
 
@@ -36,7 +36,7 @@ Balamuth F, Alpern ER, **Kan M**, Shumyatcher M, Hayes K, Lautenbach E, Himes BE
 
 ### Asthma Genetics and Pharmacogenetics
 
-Joo J, Mak ACY Mak, Xiao S, Sleiman PM, Hu D, Huntsman S, Eng C, **Kan M**, Diwakar AR, et al. Genome-wide association study in minority children with asthma implicates DNAH5 in bronchodilator responsiveness. Sci Rep. 2022 Jul 22;12(1):12514. PMID: [35869121](https://pubmed.ncbi.nlm.nih.gov/35869121/)
+Joo J, Mak ACY Mak, Xiao S, Sleiman PM, Hu D, Huntsman S, Eng C, **Kan M**, Diwakar AR, et al. **Genome-wide association study in minority children with asthma implicates DNAH5 in bronchodilator responsiveness.** Sci Rep. 2022 Jul 22;12(1):12514. PMID: [35869121](https://pubmed.ncbi.nlm.nih.gov/35869121/)
 
 Dahlin A, Sordillo JE, Ziniti J, Iribarren C, Lu M, Weiss ST, Tantisira KG, Lu Q, **Kan M**, Himes BE, et al. **Large-scale, multiethnic genome-wide association study identifies novel loci contributing to asthma susceptibility in adults.** J Allergy Clin Immunol 2019 143(4):1633-1635. PMID: [30578877](https://pubmed.ncbi.nlm.nih.gov/30578877/)
 
