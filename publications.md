@@ -2,14 +2,29 @@
 layout: default
 ---
 
-## Selected Peer-reviewed Publications
-
-You can find the complete list of my published work in [NIH MyBibliography](https://www.ncbi.nlm.nih.gov/sites/myncbi/1NEHhRomJXK5j/bibliography/48466198/public/?sortby=pubDate&sdirection=descending)
+## Publications
+You can find the complete list of my published work in [NIH MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/1fo9lTxHXFLgrb/bibliography/public/)
 
 
 \* indicates co-first authored papers
 
-### Multiomics Integration
+- [Multiomics integration](#multiomics)
+- [AI-driven multimodal data integration](#multiomics)
+- [Open-source tools and their applications](#publicomics)
+- [Genome-wide association studies and pharmacogenomics](#gwas)
+- [NHLBI Exome Sequencing Project (ESP)](#esp)
+- [Cancer genomics and epigenomics](#cancer)
+- [*De novo* genome sequencing](#denovo)
+- [Genetic and epigenetic association studies](#asso)
+- [Review](#review)
+- [Book Chapter](#book)
+
+## Selected Peer-reviewed Publications
+
+<a id="multiomics"></a>
+### Multiomics integration
+
+Giannini H, **Kan M***, Cosgriff C, Morley M, Miano T, Narayanan N, Ittner C, Turner A, Esperanza M, Erlich M, et al. **Whole blood transcriptomics reveals sepsis mortality-associated changes in neutrophil degranulation.** Am J Respir Cell Mol Biol. 2026 Feb 21. Online ahead of print. PMID: [41738283](https://pubmed.ncbi.nlm.nih.gov/41738283/)
 
 **Kan M**, Diwadkar AR, Shuai H, Joo J, Wang AL, Ong MS, Sordillo JE, et al. **Multiomics analysis identifies BIRC3 as a novel glucocorticoid response-associated gene.** J Allergy Clin Immunol. 2022 Jun;149(6):1981-1991. PMID: [34971648](https://pubmed.ncbi.nlm.nih.gov/34971648/)
 
@@ -19,22 +34,34 @@ You can find the complete list of my published work in [NIH MyBibliography](http
 
 ---
 
+<a id="publicomics"></a>
+### AI-driven multimodal data integration
+
+Wang Z, Zhan Q, Yang S, Zhou Z, **Kan M**, Zhai T, Shen L. **An interpretable Graph-Regularized Optimal Transport Framework for Diagonal Single-Cell Integrative Analysis.** Gigascience. 2026 Jan 21. PMID: [41661124](https://pubmed.ncbi.nlm.nih.gov/41661124/)
+
+---
+
+<a id="publicomics"></a>
 ### Open-source tools and their applications
 
+Lien Y, **Kan M**, Leite R, Garifallou J, Himes B, Winn V, Parry S, Strauss J, Simmons R. **Race and fetal sex differences in placental lipid metabolism associated with spontaneous early preterm birth.** Biol Reprod. 2025 Apr 17. PMID: [40244074](https://pubmed.ncbi.nlm.nih.gov/40244074/)
+
 **Kan M**, Diwadkar AR, Saxena S, Shuai H, Joo J, Himes BE. **REALGAR: a web app of integrated respiratory omics data. Bioinformatics.** 2022 Sep 15;38(18):4442-4445. PMID: [35863045](https://pubmed.ncbi.nlm.nih.gov/35863045/)
+
+Xu Y, Zhang Y, Garcia-Canaveras JC, Guo L, **Kan M**, Yu S, Blair IA, Rabinowitz JD, X Yang. **Chaperone-mediated autophagy regulates the pluripotency of embryonic stem cells.** Science. 2020 Jul 24;369(6502):397-403. PMID: [32703873](https://pubmed.ncbi.nlm.nih.gov/32703873/)
 
 Diwadkar AR, **Kan M**, Himes BE. **Facilitating Analysis of Publicly Available ChIP-Seq Data for Integrative Studies.** AMIA Annu Symp Proc. 2020 Mar 4;2019:371-379. **Received AMIA 2019 Distinguished Paper Award.** PMID: [32308830](https://pubmed.ncbi.nlm.nih.gov/32308830/)
 
 **Kan M**, Shumyatcher M, Diwadkar AR, Soliman G, Himes BE. **Integration of Transcriptomic Data Identifies Global and Cell-Specific Asthma-Related Gene Expression Signatures.** AMIA Annu Symp Proc. 2018 Dec 5;2018:1338-1347. **Finalist of AMIA Student Paper Award.** PMID: [30815178](https://pubmed.ncbi.nlm.nih.gov/30815178/)
 
-
-Xu Y, Zhang Y, Garcia-Canaveras JC, Guo L, **Kan M**, Yu S, Blair IA, Rabinowitz JD, X Yang. **Chaperone-mediated autophagy regulates the pluripotency of embryonic stem cells.** Science. 2020 Jul 24;369(6502):397-403. PMID: [32703873](https://pubmed.ncbi.nlm.nih.gov/32703873/)
-
-Balamuth F, Alpern ER, **Kan M**, Shumyatcher M, Hayes K, Lautenbach E, Himes BE. **Gene Expression Profiles Differentiate Viral from Bacterial Source Pathogen in Children with Suspected Sepsis in the Emergency Department.** Ann Emerg Med. 2020 Jun;75(6):744-754. PMID: [31983492](https://pubmed.ncbi.nlm.nih.gov/31983492/)
-
 ---
 
-### Asthma Genetics and Pharmacogenetics
+<a id="gwas"></a>
+### Genome-wide association studies and pharmacogenomics
+
+**Kan M**, Luis R. Saraiva L, Hwang L-D, Lowenthal E, Himes B, Mennella J. **Genome-wide Association Study of the Taste and Hedonic Ratings of the Low-Calorie Sweetener Acesulfame Potassium.** Sci Rep. 2025 Jul 1;15(1):22121. PMID: [40594245](https://pubmed.ncbi.nlm.nih.gov/40594245/)
+
+Mennella JA, **Kan M***, Lowenthal ED, Saraiva LR, Mainland JD, Himes BE, Pepino MY. **Genetic Variation and Sensory Perception of a Pediatric Formulation of Ibuprofen: Can a Medicine Taste Too Good for Some?.** Int J Mol Sci. 2023 Aug 22;24(17). PMID: [37685855](https://pubmed.ncbi.nlm.nih.gov/37685855/)
 
 Joo J, Mak ACY Mak, Xiao S, Sleiman PM, Hu D, Huntsman S, Eng C, **Kan M**, Diwakar AR, et al. **Genome-wide association study in minority children with asthma implicates DNAH5 in bronchodilator responsiveness.** Sci Rep. 2022 Jul 22;12(1):12514. PMID: [35869121](https://pubmed.ncbi.nlm.nih.gov/35869121/)
 
@@ -44,6 +71,14 @@ Panganiban R, Sun M, Dahlin A, Park H, **Kan M**, Himes BE, et al. **A functiona
 
 ---
 
+<a id="immune"></a>
+### Immune profiling 
+
+Espinoza DA, Zrzavy T, Breville G, Thebault S, Marefi A, Mexhitaj I, Yamashita LD, **Kan M**, et al. **Paediatric cerebrospinal fluid immune profiling distinguishes paediatric-onset multiple sclerosis from other paediatric-onset acute neurological disorders.** EBioMedicine. 2026 Jan:123:106088. PMID: [41494243](https://pubmed.ncbi.nlm.nih.gov/41494243/)
+
+---
+
+<a id="esp"></a>
 ### NHLBI Exome Sequencing Project (ESP)
 
 **Kan M**, Auer PL, Wang GT, Bucasas KL, Hooker S, Rodriguez A, Li B, Ellis J, Cupples LA, Chen YD, et al. **Rare variant associations with waist-to-hip ratio in European-American and African-American women from the NHLBI-Exome Sequencing Project.** Eur J Hum Genet. 2016 24(8):1181-7. PMID: [26757982](https://pubmed.ncbi.nlm.nih.gov/26757982/)
@@ -52,7 +87,8 @@ He Z, O'Roak BJ, Smith JD, Wang G, Hooker S, Santos-Cortez RL, Li B, **Kan M**, 
 
 ---
 
-### Cancer Genomics and Epigenomics
+<a id="cancer"></a>
+### Cancer genomics and epigenomics
 
 Zhang L, **Kan M***, Zhang M, Yu S, Xie H, Gu Z, Wang H, Zhao S, Zhou G, Song H, Zheng C. **Multiregion sequencing reveals intratumor heterogeneity of driver mutations in TP53-driven non-small cell lung cancer.** Int J Cancer. 2017 140(1):103-10. PMID: [27646734](https://pubmed.ncbi.nlm.nih.gov/27646734/)
 
@@ -60,13 +96,15 @@ Liu F, Zhou Y, Zhou D, **Kan M**, Niu X, Zhang Z, Zhang D, Tao L, He L, Zhang L,
 
 ---
 
+<a id="denovo"></a>
 ### *De novo* genome sequencing
 
 Wu C, Zhang D, **Kan M***, Lv Z, Zhu A, et al. **The draft genome of the large yellow croaker reveals well-developed innate immunity.** Nat Commun. 2014 5:5227. PMID: [25407894](https://pubmed.ncbi.nlm.nih.gov/25407894/)
 
 ---
 
-### Genetic and Epigenetic Association Studies
+<a id="asso"></a>
+### Genetic and epigenetic association studies
 
 Weng X, Zhang H, **Kan M***, Ye J, Liu F, et al. **Leukocyte telomere length is associated with advanced age-related macular degeneration in the Han Chinese population. 2015.** Exp Gerontol 69:36-40. PMID: [25959250](https://pubmed.ncbi.nlm.nih.gov/25959250/)
 
@@ -82,6 +120,7 @@ Zheng Y, **Kan M***, Yu L, Niu X, Zhou D, He L, Lu S, Liu Y. **GPC5 rs2352028 po
 
 ---
 
+<a id="review"></a>
 ### Review
 
 **Kan M**, Himes B. **Insights into Glucocorticoid Responses Derived from Omics Studies.** Pharmacol Ther. 2021 Feb;218:107674. PMID: [32910934](https://pubmed.ncbi.nlm.nih.gov/32910934/)
@@ -91,6 +130,7 @@ Zheng Y, **Kan M***, Yu L, Niu X, Zhou D, He L, Lu S, Liu Y. **GPC5 rs2352028 po
 
 ---
 
+<a id="book"></a>
 ## Book Chapter
 
 **Kan M**, Himes BE. **Genetics and Pharmacogenetics of Asthma.** Precision Therapy in Pulmonary, Critical Care and Sleep Medicine. Gomez JL, Himes BE, Kaminski N (eds). 1st ed. Springer, New York, NY. 2020. Chapter 3: 25-37p.
